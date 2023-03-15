@@ -7,11 +7,11 @@ Every semester, students in universities in Vietnam has to choose what course to
 
 ![This is an image](/img/tma404.png)
 
-Students have to do these x steps manually:
+Students have to do these  steps manually:
 - (1) Choose course codes. (Eg: MKT407, KTE312, TMA404,...)
 - (2) List all class for each course. (Eg: MKT407.1, MKT407.2, KTE312.2,...)
 - (3) Pick a class A for first course.
-- (4) Pick a class B for second course, not overlapping class A time.
+- (4) Pick a class B for second course, not overlapping class A time, if not possible, redo step 3.
 - (5) Pick a class C for third course, not overlapping class A and class B time. If not possible, redo step 4. If not possible, redo step 3.
 - (6) ...
 
