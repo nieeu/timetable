@@ -22,3 +22,6 @@ Create a program, take the input of a list of course code students wish to sign 
 - Input: ['MKT407', 'KTE312', 'TMA404', 'KTE319', 'TMA311']
 - Output:
 ![This is an image](/img/output.png)
+
+## 3. Efficiency
+This process used to take up to 30 minutes, now it is only 10 seconds.
